@@ -1,0 +1,16 @@
+:root {
+  font-size: 20px;
+}
+
+html {
+  font-size: 20px;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
