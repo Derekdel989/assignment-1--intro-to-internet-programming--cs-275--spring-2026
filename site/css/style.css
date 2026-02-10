@@ -7,10 +7,35 @@ html {
 }
 
 body {
-  background-color: aquamarine;
+  background-color: #61cfc8;
+  text-align: center;
+  line-height: 2.2;
 }
 
 h1 {
-  font-size: 2rem;
-  text-align: center;
+  font-size: 25px;
+  font-family: Arimo, sans-serif;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 18px;
+  font-family: 'Zalando Sans', sans-serif;
+  font-weight: 100;
+}
+
+p {
+  font-size: 14px;
+  font-family: 'Zalando Sans', sans-serif;
+  font-weight: 100;
+}
+
+div {
+  background-color: #f5c998;
+  border: 10px solid white;
+  width: auto;
+  padding: 20px;
+  margin: 100px;
+  font-weight: 200;
+  margin-top: auto;
 }
