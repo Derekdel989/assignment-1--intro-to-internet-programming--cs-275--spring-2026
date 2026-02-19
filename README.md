@@ -69,7 +69,7 @@ This repo contains a folder called `site`, which, in turn, contains some starter
 
 ## ❖・Due・❖
 
-Thursday, 19 February 2026, at 3:30 PM. **`NO` late assignments will be accepted, unless you can provide documentation for an emergency.**
+Tuesday, 24 February 2026, at 3:30 PM. **`NO` late assignments will be accepted, unless you can provide documentation for an emergency.**
 
 ---
 
